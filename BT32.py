@@ -2,7 +2,7 @@ M1=int(input('M1='))
 M2=int(input('M2='))
 M3=int(input('M3='))
 S=int(input('S='))
-import math
+
 if S<=100:
     print('Phai tra=',S*M1,sep='')
 elif 100 < S <= 150:
